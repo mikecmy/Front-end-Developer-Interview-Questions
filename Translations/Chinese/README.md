@@ -3,6 +3,7 @@
 本文是从h5bp/Front-end-Developer-Interview-Questions fork 出来的，用于本公司招聘的
 
 其主要目的是促使应聘者，为前端打好基础，有些问题不必非常深入了解，知道即可
+
 面试可能都不会涉及到里面的问题。
 
 
